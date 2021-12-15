@@ -8,7 +8,7 @@ public class Blueprint_Script : MonoBehaviour
 
     private Vector3 movePoint;
 
-    public GameObject prefab;
+    public GameObject Hangar;
     // Start is called before the first frame update
     void Start()
     {
@@ -32,7 +32,7 @@ public class Blueprint_Script : MonoBehaviour
 
         if (Input.GetMouseButton(0))
         {
-            Instantiate(prefab, transform.position, transform.rotation);
+            Instantiate(Hangar, transform.position, transform.rotation);
             Destroy(gameObject);
         }   
     }
