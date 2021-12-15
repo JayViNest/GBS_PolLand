@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc4bb390-63d8-422b-8641-98ee80c4fde5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GBS_PolLand/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GBS_PolLand/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Hangar_BluePrint.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Hangar_BluePrint.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Blueprint_Script.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Blueprint_Script.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,7 @@
       <workItem from="1639525993268" duration="2199000" />
       <workItem from="1639560672943" duration="341000" />
       <workItem from="1639562348021" duration="1447000" />
-      <workItem from="1639563858212" duration="757000" />
+      <workItem from="1639563858212" duration="1441000" />
     </task>
     <servers />
   </component>
