@@ -1,39 +1,27 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Blueprint_Script : MonoBehaviour
 {
-    RaycastHit hit;
+    [SerializeField] private GameObject hangar;
+    [SerializeField] private float maxDistance = 50000.0f;
 
-    private Vector3 movePoint;
+    private RaycastHit hit;
+    private Camera camera;
 
-    public GameObject Hangar;
-    // Start is called before the first frame update
-    void Start()
+    private void Start()
     {
-        Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-        if (Physics.Raycast(ray, out hit, 50000.0f, (1 << 8)))
-        {
-            transform.position = hit.point;
-        }
-
-       
+        camera = Camera.main;
     }
 
-    // Update is called once per frame
     void Update()
     {
-        Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-        if (Physics.Raycast(ray, out hit, 50000.0f, (1 << 8)))
+        if (Input.GetMouseButtonDown(0))
         {
-            transform.position = hit.point;
+            Ray ray = camera.ScreenPointToRay(Input.mousePosition);
+            if (Physics.Raycast(ray, out hit, maxDistance))
+            {
+                Instantiate(hangar, hit.point, Quaternion.identity);
+            }
         }
-
-        if (Input.GetMouseButton(0))
-        {
-            Instantiate(Hangar, transform.position, transform.rotation);
-            Destroy(gameObject);
-        }   
     }
 }
