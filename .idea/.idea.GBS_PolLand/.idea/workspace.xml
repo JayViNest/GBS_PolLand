@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc4bb390-63d8-422b-8641-98ee80c4fde5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GBS_PolLand/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GBS_PolLand/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dc4bb390-63d8-422b-8641-98ee80c4fde5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +26,14 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$ Zbudowana Gra\PolLand v0.1.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Przemek\Desktop\GBS - PolLand GIT-ON\GBS_PolLand Zbudowana Gra" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -62,6 +68,7 @@
       <workItem from="1639562348021" duration="1447000" />
       <workItem from="1639563858212" duration="1441000" />
       <workItem from="1639924908436" duration="963000" />
+      <workItem from="1640106960135" duration="561000" />
     </task>
     <servers />
   </component>
