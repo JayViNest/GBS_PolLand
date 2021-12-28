@@ -12,7 +12,7 @@ public class Blueprint_Script : MonoBehaviour
     {
         camera = Camera.main;
     }
-
+    
     void Update()
     {
         if (Input.GetMouseButtonDown(0))
