@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 13b9bc5d0bec89e46b5c598b240533d1
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: 7fe91306f28ec0f4b9895ef4615fe391
+  - enabled: 1
+    path: Assets/Scenes/Tworcy.unity
+    guid: bfa48f6150480334c94d94abcd00ae75
   m_configObjects: {}
