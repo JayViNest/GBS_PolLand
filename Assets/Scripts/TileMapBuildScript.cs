@@ -3,11 +3,14 @@ using System.Collections.Generic;
 using Unity.Collections.LowLevel.Unsafe;
 using UnityEngine;
 using UnityEngine.Tilemaps;
+using UnityEngine.InputSystem;
 
 public class TileMapBuildScript : MonoBehaviour
 {
     public static TileMapBuildScript current;
 
+    public InputAction buildTest;
+    
     public GridLayout gridLayout;
     private Grid grid;
 

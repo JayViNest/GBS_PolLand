@@ -391,6 +391,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d3366d90f9e6ac41bb827d62cae026f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  buildTest:
+    m_Name: Build Test
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: 64681a3f-6037-4549-a7b0-779bab6f3187
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings: []
+    m_Flags: 0
   gridLayout: {fileID: 1458610274}
   MainTilemap: {fileID: 8092114}
   whiteTile: {fileID: 0}
