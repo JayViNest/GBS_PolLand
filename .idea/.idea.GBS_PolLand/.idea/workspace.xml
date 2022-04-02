@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc4bb390-63d8-422b-8641-98ee80c4fde5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GBS_PolLand/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GBS_PolLand/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/DevTesting.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/DevTesting.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Blueprint_Script.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Blueprint_Script.cs" afterDir="false" />
-    </list>
+    <list default="true" id="dc4bb390-63d8-422b-8641-98ee80c4fde5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +10,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Blueprint_Script.cs" root0="FORCE_HIGHLIGHTING" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="22IXGrlqNPJKUSuzV7qYDRfMwqj" />
   <component name="ProjectViewState">
@@ -27,9 +23,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+  <component name="RunManager">
     <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="$PROJECT_DIR$ Zbudowana Gra\PolLand v0.1.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -76,6 +73,7 @@
       <workItem from="1640350072193" duration="597000" />
       <workItem from="1640379492693" duration="232000" />
       <workItem from="1640710578334" duration="160000" />
+      <workItem from="1648887767045" duration="2555000" />
     </task>
     <servers />
   </component>
