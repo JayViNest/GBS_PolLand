@@ -403,8 +403,8 @@ MonoBehaviour:
   gridLayout: {fileID: 1458610274}
   MainTilemap: {fileID: 8092114}
   whiteTile: {fileID: 0}
-  prefab1: {fileID: 2987163021013606687, guid: ea188a465a3424949ab77af72c792e91, type: 3}
-  prefab2: {fileID: 0}
+  prefab1: {fileID: 3175401389758757737, guid: d80ce87962ab4414db3a90ac0604539d, type: 3}
+  prefab2: {fileID: 1487317230054600521, guid: cc8b22f3255fe6447a7938212612e610, type: 3}
 --- !u!1 &1530116795
 GameObject:
   m_ObjectHideFlags: 0
