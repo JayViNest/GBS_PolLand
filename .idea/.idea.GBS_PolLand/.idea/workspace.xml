@@ -3,11 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="dc4bb390-63d8-422b-8641-98ee80c4fde5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GBS_PolLand/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GBS_PolLand/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/FarmaWithColider Variant.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Objects/FarmaWithColider Variant.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/TartakWithColider Variant.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Objects/TartakWithColider Variant.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Test TileMap.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Test TileMap.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ButtonMenu.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ButtonMenu.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Placeableobject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Placeableobject.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

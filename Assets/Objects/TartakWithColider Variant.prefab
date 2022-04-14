@@ -65,7 +65,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -927199367670048503, guid: 86f6a790b359a7944b82a8683ee1d6d9, type: 3}
       propertyPath: m_Name
-      value: TartakWithColider
+      value: TartakWithColider Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86f6a790b359a7944b82a8683ee1d6d9, type: 3}
@@ -87,3 +87,15 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 5.906187, y: 9.678705, z: 5.4499855}
   m_Center: {x: 0.3414836, y: 0.28644416, z: 1.0470935}
+--- !u!114 &6365238593584631858
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3175401389758757737}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b94f4d9a8ad2784f815943ac1434d3a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
