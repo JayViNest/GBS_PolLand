@@ -14,4 +14,5 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Tworcy.unity
     guid: bfa48f6150480334c94d94abcd00ae75
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: eb95206662400a54aa42a23e5466d5a4, type: 2}
